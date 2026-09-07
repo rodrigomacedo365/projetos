@@ -1,6 +1,5 @@
 # ⚡ Calculadora de consumo de energia
-
-Um script simples para calcular a estimativa de consumo de energia mensal (em kWh) de qualquer aparelho eletrodoméstico com base na potência e no tempo médio de uso diário.
+- Um script simples para calcular a estimativa de consumo de energia mensal (em kWh) de qualquer aparelho eletrodoméstico com base na potência e no tempo médio de uso diário.
 ---
 
 ## Linguagem
